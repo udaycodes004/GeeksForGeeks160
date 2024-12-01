@@ -1,5 +1,6 @@
 <h1 align="center">🚀 GeeksforGeeks 160 Days Challenge - The Ultimate Java Coding Adventure! 🌟</h1>
-
+<h3 align="center">Code Daily, Ace Consistently, Conquer Interviews - The GFG 160 Days Challenge!</h3>
+<p align="center" alt="coding" />
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png"
 alt="GFG BANNER" style="float: right; width: 400px;" />
 
